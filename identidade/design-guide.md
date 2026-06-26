@@ -8,15 +8,15 @@
 
 ## Cores
 
-- **Fundo principal:**
+- **Fundo principal:** Preto
 
-- **Cor de destaque / CTA:**
+- **Cor de destaque / CTA:** Amarelo vibrante
 
-- **Texto principal:**
+- **Texto principal:** Branco
 
-- **Fundo alternativo / cards:**
+- **Fundo alternativo / cards:** Preto (com respingo amarelo como elemento gráfico)
 
-- **Cor proibida:**
+- **Cor proibida:** Nenhuma definida ainda
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Logo
 
-- **Arquivo:** *(ex: identidade/logo.png ou identidade/logo.svg)*
+- **Arquivo:** Pendente — usuário descreveu a logo (texto "ESTAMPARIA BARÃO" em branco com detalhe de coroa, sobre fundo preto com respingo amarelo) mas o arquivo ainda não foi colocado em `identidade/logo.png`. Adicionar o arquivo aqui quando possível.
 - **Versão pra fundo escuro:** *(se tiver — ex: identidade/logo-branco.png)*
 - **Onde usar:** slide final do carrossel (CTA), header de propostas, slides de apresentação
 - **Tamanho sugerido:** largura entre 120-200px nos HTMLs

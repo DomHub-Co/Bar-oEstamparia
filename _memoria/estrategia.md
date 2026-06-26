@@ -6,8 +6,21 @@
 
 ## Fase
 
+Empresa estruturada (~8 pessoas), processo operacional manual de 23 etapas, buscando digitalizar/automatizar a operação.
+
 ## Prioridade principal
 
+**Gargalo atual:** processo muito manual e braçal, sem sistema único —
+- Triagem → criação de arte → aprovação se arrasta em idas e voltas
+- Fila de produção depende de lista física levada toda sexta-feira, sem visibilidade
+- Prazo fixo de 15 dias úteis que não reflete a demanda real
+- Cliente fica sem rastreamento do pedido depois que fecha (sem visão tipo iFood/Correios)
+- Orçamento, pagamento, nota fiscal (Bling) e produção não conversam entre si
+
+**Pra tirar das costas:** a comunicação com o cliente para extrair os detalhes reais do pedido na triagem — é o que mais pesa hoje. Candidata a virar skill própria via `/mapear-rotinas`.
+
 ## O que pode esperar
+
+A visão de um sistema integrado completo (IA de atendimento, quadro compartilhado cliente/designer, orçamento automático, integração com Bling, cálculo dinâmico de prazo, rastreamento de pedido) é uma iniciativa grande — vale tratar como projeto dedicado, não como parte do uso diário do MazyOS.
 
 ## Contexto com prazo

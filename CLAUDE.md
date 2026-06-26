@@ -113,3 +113,52 @@ Quando o usuário pedir skill nova:
 4. Se a skill precisar de arquivos de apoio (templates, exemplos),
    criar dentro da pasta da skill
 5. Seguir o fluxo da skill-creator nativa do Claude Code
+
+---
+
+## Sobre a empresa
+
+Barão Estamparia é uma estamparia especializada em uniformes esportivos
+personalizados. Atua há mais de 10 anos no mercado, referência no ABC
+Paulista, com envios para todo o Brasil. Atende principalmente times de
+futebol amador da região (vendas individuais existem, mas são marginais).
+Somos 8 pessoas organizadas em financeiro, vendas, design e estoque/produção.
+
+**Estrutura de pastas:**
+- `_memoria/` — quem é a empresa, como falamos, foco atual
+- `identidade/` — marca aplicada em tudo que o sistema gera
+- `marketing/` — campanhas, conteúdo, mídia paga
+- `dados/` — arquivos a analisar
+- `scripts/` — automações e scripts de apoio
+- `saidas/` — documentos pontuais
+
+## Setores
+
+- **Financeiro:** pagamentos, emissão de nota fiscal (ERP Bling)
+- **Vendas:** atendimento via WhatsApp, fechamento de pedido, orçamento
+- **Design:** criação de arte e ciclo de aprovação com o cliente
+- **Estoque/Produção:** confecção, costura, conferência, embalagem, envio
+
+## Tom de voz
+
+Direto, com energia, bullets curtos pontuados por emoji — fala com quem
+gosta de esporte, sem formalidade. Ver `_memoria/preferencias.md` para
+exemplo real de escrita.
+
+Evitar: formalidade excessiva, jargão corporativo.
+
+## Regras do sistema
+
+- A visão de um sistema integrado maior (IA de atendimento na triagem,
+  quadro compartilhado cliente/designer, orçamento automático, integração
+  com Bling, prazo de produção calculado dinamicamente, rastreamento de
+  pedido estilo iFood/Correios) é um projeto grande e separado — tratar
+  como iniciativa dedicada, não como parte do uso diário do MazyOS.
+
+## Ferramentas conectadas
+
+- [x] Bling (ERP / nota fiscal)
+- [ ] WhatsApp Business
+- [ ] Notion
+
+*(Marcar conforme for instalando os MCPs)*
