@@ -131,6 +131,7 @@ Somos 8 pessoas organizadas em financeiro, vendas, design e estoque/produção.
 - `dados/` — arquivos a analisar
 - `scripts/` — automações e scripts de apoio
 - `saidas/` — documentos pontuais
+- `projetos/` — iniciativas grandes e separadas do uso diário (ex: sistema de triagem com IA)
 
 ## Setores
 

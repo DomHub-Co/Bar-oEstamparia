@@ -23,4 +23,6 @@ Empresa estruturada (~8 pessoas), processo operacional manual de 23 etapas, busc
 
 A visão de um sistema integrado completo (IA de atendimento, quadro compartilhado cliente/designer, orçamento automático, integração com Bling, cálculo dinâmico de prazo, rastreamento de pedido) é uma iniciativa grande — vale tratar como projeto dedicado, não como parte do uso diário do MazyOS.
 
+Especificação da Fase 1 (triagem automatizada via WhatsApp com IA) já está pronta em `projetos/sistema-triagem-whatsapp.md` — decisão pendente: implementar via Claude Code ou em ferramenta externa.
+
 ## Contexto com prazo
